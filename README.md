@@ -58,6 +58,9 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] How can we partition our application into sub-applications?
 
+-Spliting it into smaller applications.?
+-Partitioning is the process of developing applications that distribute the appliction logic among two or more computers.
+
 ## Minimum Viable Product
 
 - [ ] Configure an _npm script_ named _"server"_ that will execute your code using _nodemon_. Make _nodemon_ be a development time dependency only, it shouldn't be deployed to production.
