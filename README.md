@@ -40,11 +40,17 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+-Builds RESTful web services that work with JSON.
+-Serves static content, like HTML files, images,audio files, PDF'S etc.
+
 - [ ] Describe Middleware?
+
+-Middleware is like a function that executes while using express server.
 
 - [ ] Describe a Resource?
 
 - [ ] What can the API return to help clients know if a request was successful?
+-It return a 200 http sttus code.
 
 - [ ] How can we partition our application into sub-applications?
 
